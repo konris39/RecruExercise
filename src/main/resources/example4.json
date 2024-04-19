@@ -1,0 +1,16 @@
+{
+  "PolicyName": "rose",
+  "PolicyDocument": {
+    "Version": "2023-11-19",
+    "Statement": [
+      {
+        "Sid": "IamAccess",
+        "Effect": "Allow",
+        "Action": [
+          "iam:Roles",
+          "iam:Users"
+        ]
+      }
+    ]
+  }
+}

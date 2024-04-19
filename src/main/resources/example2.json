@@ -1,0 +1,17 @@
+{
+  "PolicyName": "rusty",
+  "PolicyDocument": {
+    "Version": "2022-11-19",
+    "Statement": [
+      {
+        "Sid": "IamMapAccess",
+        "Effect": "Allow",
+        "Action": [
+          "iam:MapRoles",
+          "iam:MapUsers"
+        ],
+        "Resource": ""
+      }
+    ]
+  }
+}
