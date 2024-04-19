@@ -37,8 +37,8 @@ There is an exception if file does not exists.
 - Returns `false`:
   - The policy JSON file contains at least one policy statement with a `Resource` field that has the value "*".
 
-- Raises `exception`:
- - If file does not exists
+- Returns `exception`:
+  - If file does not exists.
 
 Here is an image showing console:
 
