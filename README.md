@@ -63,7 +63,7 @@ To use the `PolicyVerifier`, for new example, you need to:
 
 ![image](https://github.com/konris39/RecruExercise/assets/151552959/1c23f006-0dea-46d5-911d-0b1555c55d53)
 
-Now just run it and everything will work just fine!
+Now run it and everything will work just fine!
 
 
 
